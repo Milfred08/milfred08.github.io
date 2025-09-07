@@ -3,7 +3,7 @@
 Welcome to my Computer Science Capstone ePortfolio.
 
 ## Navigation
-- <a href="https://github.com/Milfred08/cs499-capstone/blob/main/docs/code-review.md" target="_blank" rel="noopener">Code Review</a>
+- [Code Review](https://github.com/Milfred08/cs499-capstone/blob/main/docs/code-review.md)
 - [Enhancement 1: Software Design & Engineering](enhancement-1.md)
 - [Enhancement 2: Algorithms & Data Structures](enhancement-2.md)
 - [Enhancement 3: Databases](enhancement-3.md)
